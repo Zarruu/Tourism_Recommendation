@@ -1,0 +1,7 @@
+go run main.go
+janlup nyalain dulu MySQL sama apache nya
+import database ke phpMyAdmin dulu
+
+bikin dulu database baru di phpMyAdmin namanya "db_wisata" 
+baru import database nya
+klo bingung bisa asking gpt
